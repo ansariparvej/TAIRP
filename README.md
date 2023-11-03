@@ -12,7 +12,7 @@
 
 - DataSet Link: https://www.kaggle.com/datasets/mukeshmanral/fifa-data-for-eda-and-stats
 
-- Solution Link: 
+- Solution Link: https://github.com/ansariparvej/TAIRP/tree/main/Task_2:%20Sports%20Data%20Analysis
 
 # Task_4 - Movie Ratings Analysis
 
@@ -24,7 +24,7 @@
 
 - DataSet Link: https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis
 
-- Solution Link: 
+- Solution Link: https://github.com/ansariparvej/TAIRP/tree/main/Task_4:%20Movie%20Ratings%20Analysis
 
 # Task_5 - Analyzing E-commerce Sales Data
 
@@ -36,4 +36,4 @@
 
 - DataSet Link: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
-- Solution Link:
+- Solution Link: https://github.com/ansariparvej/TAIRP/tree/main/Task_5:%20Analyzing%20E-commerce%20Sales%20Data
