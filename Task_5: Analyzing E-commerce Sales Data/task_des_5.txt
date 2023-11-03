@@ -1,0 +1,3 @@
+Analyze sales data from an e-commerce platform to gain insights into customer behavior and product performance. Explore customer demographics, purchase patterns, and popular products. Visualize sales trends over time and identify peak sales periods. Apply basic statistical analysis to identify correlations or patterns between different variables.
+
+https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data

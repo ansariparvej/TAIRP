@@ -1,0 +1,3 @@
+Use a movie ratings dataset, such as the MovieLens dataset, to gain insights into movie ratings and user preferences. Perform calculations to find average ratings for movies, identify highly-rated movies, and determine the most active users. Visualize the data using histograms, scatter plots, or heatmaps to explore relationships between ratings, genres, and user demographics.
+
+https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis

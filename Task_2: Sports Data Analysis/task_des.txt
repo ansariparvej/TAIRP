@@ -1,0 +1,3 @@
+Obtain a dataset containing sports statistics, such as scores, player performance, or team rankings. Clean and preprocess the data, and then visualize the performance of players or teams using various charts and graphs. For example, you can create line plots to show player performance over time or use bar charts to compare team rankings in different seasons.
+
+https://www.kaggle.com/datasets/mukeshmanral/fifa-data-for-eda-and-stats
